@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://futuregerm.github.io/monsters-rolodex",
+  "homepage": "https://german-ruiz.github.io/monsters-rolodex",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "react": "^16.10.2",
